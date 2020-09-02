@@ -9,10 +9,10 @@ H👨‍🎓I am Dhruv Kothari, currently embarking on my engineering journey fr
 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
 -->
-💻 I am currently working as a Linux Engineer Associate in TCS.
-🌱 I am a Data Science enthusiast and learning Machine Learning and Artificial Intelligence.
-📷 I am also a photographer who loves to travel.
-⚡ Fun fact: Loves Pizza more than data.
+💻 I am currently working as a Linux Engineer Associate in TCS.<br />
+🌱 I am a Data Science enthusiast and learning Machine Learning and Artificial Intelligence.<br />
+📷 I am also a photographer who loves to travel.<br />
+⚡ Fun fact: Loves Pizza more than data.<br />
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=samprati97&show_icons=true&hide_border=true)
