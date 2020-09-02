@@ -1,4 +1,6 @@
-## Hello folks 👋
+![GitHub Logo](https://github.com/samprati97/samprati97/blob/master/Samprati%20Kothari.png)
+
+## Hello! folks 👋
 
 💻 I am currently working as a Linux Engineer Associate in TCS.<br />
 🌱 I am a Data Science enthusiast and learning Machine Learning and Artificial Intelligence.<br />
